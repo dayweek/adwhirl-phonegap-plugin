@@ -7,8 +7,8 @@ The plugin allows you to display a banner from [AdWhirl](https://www.adwhirl.com
 Copy `AdWhirl.h` and `AdWhirl.m` into Cordova-iOS application folder and add this to `Cordova.plist` _Plugins_ key:
 
 ```xml
-<key>Echo</key>
-<string>Echo</string>
+<key>AdWhirl</key>
+<string>AdWhirl</string>
 ```
 
 Add dependency into `app.json`:
